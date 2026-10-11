@@ -1,0 +1,7 @@
+80cm entre 2 QR code en H ->total 2000 
+180cm entre 2 largeur ->total 3000 
+
+pos 1 600,600
+pos 2 600 2400
+pos 3 1400 2400
+pos 4 1400 600
