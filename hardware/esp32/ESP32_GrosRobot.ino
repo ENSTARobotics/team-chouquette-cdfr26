@@ -1,5 +1,5 @@
 /* ============================================================================
- *  EUROBOT 2026 - GROS ROBOT - CODE ESP32
+ *  TEAM CHOUQUETTE - COUPE DE FRANCE 2026 - GROS ROBOT - CODE ESP32
  * ============================================================================
  *  Rôle de l'ESP32 :
  *   - Lire les 4 sonars (HC-SR04) -> envoyer D1..D4 à la Raspberry Pi

@@ -3,9 +3,9 @@ requires = ["setuptools>=68"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "ensta-gros-robot"
+name = "team-chouquette-cdfr26"
 version = "0.1.0"
-description = "Contrôle Raspberry Pi et ESP32 du gros robot ENSTA"
+description = "Contrôle Raspberry Pi et ESP32 de la Team Chouquette pour la CDFR 2026"
 requires-python = ">=3.10"
 dependencies = ["pyserial>=3.5", "numpy>=1.24", "opencv-contrib-python>=4.8"]
 

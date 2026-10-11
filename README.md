@@ -1,6 +1,7 @@
-# ENSTA Gros Robot
+# Team Chouquette - CDFR 2026
 
-Logiciel de pilotage Raspberry Pi + ESP32 pour le gros robot Eurobot.
+Code de pilotage Raspberry Pi + ESP32 du robot de la Team Chouquette pour la
+Coupe de France de robotique 2026.
 
 Le dépôt contient :
 
@@ -15,7 +16,7 @@ Le dépôt contient :
 
 ```bash
 git clone <URL_DU_DEPOT>
-cd ensta-gros-robot
+cd team-chouquette-cdfr26
 python3 -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
@@ -68,6 +69,6 @@ SETPOS:<x>,<y>,<theta>
 
 ## État du dépôt
 
-La version principale est issue de la variante multi-sonars de `files_2`.
+La version principale est issue de la variante multi-sonars.
 Les anciennes implémentations ne sont pas supprimées : elles sont placées dans
 `archive/legacy/` afin de permettre une comparaison ou une récupération.

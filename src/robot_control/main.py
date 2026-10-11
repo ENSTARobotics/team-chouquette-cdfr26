@@ -1,7 +1,7 @@
 """
 main.py
 --------
-Programme principal du gros robot Eurobot 2026 - Raspberry Pi.
+Programme principal du robot Team Chouquette pour la Coupe de France 2026.
 
 Déroulement d'un match (100 secondes) :
   1. Initialisation des liaisons série + des servos en position de départ.
@@ -16,7 +16,7 @@ Déroulement d'un match (100 secondes) :
   4. Stop final : retour au nid avant la fin du match (points "ON EST MIEUX
      DANS SON NID").
 
-Convention de table (Eurobot 2026) :
+Convention de table (Coupe de France 2026) :
   - table 3000 x 2000 mm
   - origine (0, 0) coin de la table
   - équipe BLEUE  : nid arrière côté X faible
