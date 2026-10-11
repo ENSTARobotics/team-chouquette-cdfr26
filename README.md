@@ -66,9 +66,3 @@ STOP
 RESET
 SETPOS:<x>,<y>,<theta>
 ```
-
-## État du dépôt
-
-La version principale est issue de la variante multi-sonars.
-Les anciennes implémentations ne sont pas supprimées : elles sont placées dans
-`archive/legacy/` afin de permettre une comparaison ou une récupération.
